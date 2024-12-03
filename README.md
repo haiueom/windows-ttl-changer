@@ -1,6 +1,6 @@
 # Windows TTL Changer
 
-<!-- **Download Here**: [![](https://img.shields.io/github/downloads/AzimsTech/TTL-Changer/1.4/TTL-Changer_1.4.bat.svg)](https://github.com/AzimsTech/TTL-Changer/releases/download/1.4/TTL-Changer_1.4.bat) -->
+![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/haiueom/windows-ttl-changer/latest/ttl-changer.bat)
 
 ## Overview
 
