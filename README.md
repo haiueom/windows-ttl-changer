@@ -1,9 +1,5 @@
 # Windows TTL Changer
 
-![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/haiueom/windows-ttl-changer/latest/ttl-changer.bat)
-
-## Overview
-
 Time to Live (TTL) is a crucial parameter in networking that defines the number of hops a packet can take before it is discarded.
 
 - Windows: Default TTL = 128
@@ -17,12 +13,13 @@ Some Internet Service Providers (ISPs) may restrict tethering by detecting wheth
 
 ## Usage
 
-1. Download & run `ttl-changer.bat` file.
-2. Choose an Option:
+1. Download latest version of `ttl-changer.bat` from [latest release](https://github.com/haiueom/windows-ttl-changer/releases/latest)
+2. Run `ttl-changer.bat` file as administrator.
+3. Choose an Option:
    - Press 1 to enable bypass mode (TTL = 65).
    - Press 2 to restore the default TTL value (TTL = 128).
    - Press 3 to exit the program.
-3. After applying changes, restart your system to ensure they take effect.
+4. After applying changes, restart your system to ensure they take effect.
 
 # Research
 
